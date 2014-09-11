@@ -1,16 +1,14 @@
 div{
-    border-style: solid;
     border-width: 5px;
-    border-color: green;
     padding: 30px;
 }
 
 .container{
-    border-color: blue;
+    
 }
 
 .row{
-    border-color: red;
+    
 }
 
 .list-group-item{
@@ -18,3 +16,4 @@ div{
     margin-top: 40px;
     margin-bottom: 40px;
 }
+
